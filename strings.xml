@@ -1,0 +1,17 @@
+<resources>
+    <string name="answer_was_shown">Oszukujesz! Odpowiedź była już wyświetlona.</string>
+    <string name="app_name">Quiz</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Następne</string>
+
+    <string name="q_stolica">Warszawa jest stolicą Polski</string>
+    <string name="q_chrzest">Chrzest Polski był w 1410 roku</string>
+    <string name="q_wojna">II Wojna światowa wybuchła w 1939 roku</string>
+    <string name="q_marchewka">Kolor pierwszych marchewek to kolor purpurowy lub żółty</string>
+    <string name="q_cerkwie">Kolory cerkwi mają znaczenie i oznaczają komu została poświęcona budowla</string>
+    <string name="q_eiffla">Wieża Eiffla została zbudowana z betonu</string>
+    <string name="q_majonez">Majonez jest robiony z pomidorów</string>
+    <string name="correct_aswer">Twoja odpowiedź jest dobra! </string>
+    <string name="incorrect_answer">Twoja odpowiedź jest zła!</string>
+</resources>
